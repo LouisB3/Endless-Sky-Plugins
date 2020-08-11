@@ -1,38 +1,32 @@
-# Authors (frequency /100)
+# Authors (frequency /10)
 
 person "Michael Zahniser"
-  frequency 1
+  frequency 10
   # was default 100
 person "Captain Nate"
-  frequency 3
+  frequency 30
   # was 300
 person "Power of the People"
-  frequency 2
+  frequency 20
   # was 200
 person "Local God"
-  frequency 2
+  frequency 20
   # was 200
-
-# Parrot (frequency /100)
-
-person "Cap'n Pester"
-  frequency 3
-  # was 300
-
-# Reference(s) to other media (frequency /100)
-
-person "Tranquility"
-  frequency 1
-  # was default 100
-
-# Special case: Author/Marauder hybrid with unique capturable ship (frequency /10)
-
 person "Marauding Max"
   frequency 40
   # was 400
+ 
+# Reference(s) to other media (frequency /10)
 
-# Indigenous Lifeform: actually exists within the fictional universe, not the metagame (frequency /10)
+person "Cap'n Pester"
+  frequency 30
+  # was 300
+person "Tranquility"
+  frequency 10
+  # was default 100
+
+# Indigenous Lifeform (frequency unchanged)
 
 person "Subsidurial"
-  frequency 10
+  frequency 100
   # was 100
