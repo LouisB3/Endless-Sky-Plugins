@@ -1,0 +1,3 @@
+Reduces the frequency of "persons", making Author ships and other such Easter eggs appear about 10x to 100x less often.
+
+(In the unmodified game, one of these would show up every 15-16 minutes on average; this reduces that average to about 171 minutes.)
