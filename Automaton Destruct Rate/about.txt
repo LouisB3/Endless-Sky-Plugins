@@ -1,0 +1,1 @@
+Reduces the self-destruct chance of all Korath automata, making it easier to board and capture them.

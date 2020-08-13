@@ -1,0 +1,69 @@
+ship "Kar Ik Vot 349"
+	attributes
+		"self destruct" .6
+		# was .8
+
+ship "Tek Far 71 - Lek"
+	attributes
+		"self destruct" .4
+		# was .7
+
+ship "Tek Far 78 - Osk"
+	attributes
+		"self destruct" .4
+		# was .7
+
+ship "Tek Far 109"
+	attributes
+		"self destruct" .4
+		# was .7
+
+ship "Met Par Tek 53"
+	attributes
+		"self destruct" .3
+		# was .65
+
+ship "Far Lek 14"
+	attributes
+		"self destruct" .2
+		# was .6
+
+ship "Far Osk 27"
+	attributes
+		"self destruct" .2
+		# was .6
+
+ship "Model 8"
+	attributes
+		"self destruct" .2
+		# was .60
+
+ship "Model 16"
+	attributes
+		"self destruct" .3
+		# was .65
+
+ship "Model 32"
+	attributes
+		"self destruct" .4
+		# was .70
+
+ship "Model 64"
+	attributes
+		"self destruct" .48
+		# was .74
+
+ship "Model 128"
+	attributes
+		"self destruct" .54
+		# was .77
+
+ship "Model 256"
+	attributes
+		"self destruct" .58
+		# was .79
+
+ship "Model 512"
+	attributes
+		"self destruct" .6
+		# was .80
