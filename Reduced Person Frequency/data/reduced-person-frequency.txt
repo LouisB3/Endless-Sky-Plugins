@@ -1,28 +1,28 @@
-# Authors (frequency /10)
+# Authors (frequency /20)
 
 person "Michael Zahniser"
-  frequency 10
+  frequency 5
   # was default 100
 person "Captain Nate"
-  frequency 30
+  frequency 15
   # was 300
 person "Power of the People"
-  frequency 20
+  frequency 10
   # was 200
 person "Local God"
-  frequency 20
+  frequency 10
   # was 200
 person "Marauding Max"
-  frequency 40
+  frequency 20
   # was 400
  
-# Reference(s) to other media (frequency /10)
+# References to other media (frequency /20)
 
 person "Cap'n Pester"
-  frequency 30
+  frequency 15
   # was 300
 person "Tranquility"
-  frequency 10
+  frequency 5
   # was default 100
 
 # Indigenous Lifeform (frequency unchanged)
