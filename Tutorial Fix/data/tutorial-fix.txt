@@ -1,4 +1,4 @@
-# doesn't fucking work
+# doesn't work
 
 mission "Intro [1 Freighter]"
 	to offer
