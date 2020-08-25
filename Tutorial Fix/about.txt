@@ -1,0 +1,1 @@
+Allows the tutorial to be completed with any category of ship, in case the player has upgraded and is no longer flying a ship that corresponds to one of the starter categories.
