@@ -1,4 +1,4 @@
-# doesn't work
+# doesn't work; see https://github.com/endless-sky/endless-sky/issues/4487
 
 mission "Intro [1 Freighter]"
 	to offer
