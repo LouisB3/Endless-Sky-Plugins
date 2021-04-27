@@ -3,6 +3,9 @@
 person "Michael Zahniser"
   frequency 5
   # was default 100
+person "Marauding Max"
+  frequency 20
+  # was 400
 person "Captain Nate"
   frequency 15
   # was 300
@@ -12,10 +15,16 @@ person "Power of the People"
 person "Local God"
   frequency 10
   # was 200
-person "Marauding Max"
-  frequency 20
-  # was 400
- 
+person "Prototype B3-CC4"
+  frequency 50
+  # was 1000
+person "Rais Iris XVIII"
+  frequency 10
+  # was 200
+person "Zitchas"
+  frequency 50
+  # was 1000
+
 # References to other media (frequency /20)
 
 person "Cap'n Pester"
@@ -25,8 +34,8 @@ person "Tranquility"
   frequency 5
   # was default 100
 
-# Indigenous Lifeform (frequency unchanged)
+# Indigenous Lifeform (frequency /4)
 
 person "Subsidurial"
-  frequency 100
-  # was 100
+  frequency 250
+  # was 1000

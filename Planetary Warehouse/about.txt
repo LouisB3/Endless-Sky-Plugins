@@ -1,1 +1,0 @@
-Adds a spaceport warehouse for storage of ship outfits. For sale at certain planets.
