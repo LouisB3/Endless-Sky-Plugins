@@ -24,6 +24,15 @@ person "Rais Iris XVIII"
 person "Zitchas"
   frequency 50
   # was 1000
+person "Brick"
+  frequency 15
+  # was 300
+person "Gefullte Taubenbrust"
+  frequency 10
+  # was 200
+person "MasterOfGrey"
+  frequency 10
+  # was 200
 
 # References to other media (frequency /20)
 
